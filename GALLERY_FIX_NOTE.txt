@@ -1,0 +1,1 @@
+Gallery section fixed: images are now displayed as small clean cards, 3 per row on desktop, 2 per row on tablet, and 1 per row on mobile. Updated files: index.php and css/style.css.

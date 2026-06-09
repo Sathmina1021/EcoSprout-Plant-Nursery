@@ -1,0 +1,19 @@
+EcoSprout Demo Login Details
+===========================
+
+Admin Login
+Email: admin@ecosprout.lk
+Password: Admin@123
+Dashboard: /admin/dashboard.php
+
+Staff Login
+Email: staff@ecosprout.lk
+Password: Staff@123
+Dashboard: /staff/dashboard.php
+
+User/Customer Login
+Email: user@ecosprout.lk
+Password: User@123
+Dashboard: /customer/dashboard.php
+
+All plant records now have matching local images in uploads/plants/.
